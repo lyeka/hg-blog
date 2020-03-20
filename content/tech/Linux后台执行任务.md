@@ -1,10 +1,8 @@
 ---
 title: "Linux后台执行任务"
 date: 2020-03-10
-keywords: ["后台执行"]
-description: "Linux后台执行任务的几种方式"
 tags: ["linux"]
-categories: ["linux"]
+categories: ["技术"]
 isCJKLanguage: true
 ---
 

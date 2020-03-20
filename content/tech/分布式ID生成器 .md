@@ -1,10 +1,8 @@
 ---
 title: "分布式ID生成器"
 date: 2020-03-09
-keywords: ["hugo"]
-description: "分布式ID生成器"
 tags: ["分布式", "go"]
-categories: ["tech"]
+categories: ["技术"]
 isCJKLanguage: true
 ---
 # 分布式ID生成器
